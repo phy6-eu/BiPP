@@ -14,9 +14,9 @@ One or multiple lines of a columns can be expanded by "macro-style" expressions 
 That is a free specification, that I have given to the project. As far as the actual parsing action is concerned, I am now working on it in some example scripts.
 
 ## Features
-    - JSON-style data and Python dictionaries should be convertible into binary data and vice-versa, provided the appropriate ```.bip```-file.
-    - A structured and annotated graph-style visualisation of the _language_ reading and writing bytes in the form of a finite automaton can be generated (e.g. as plain-text or ```pdf```-file).
-    - A language can be defined interchangably by regular expresssions.
+ - JSON-style data and Python dictionaries should be convertible into binary data and vice-versa, provided the appropriate ```.bip```-file.
+ - A structured and annotated graph-style visualisation of the _language_ reading and writing bytes in the form of a finite automaton can be generated (e.g. as plain-text or ```pdf```-file).
+ - A language can be defined interchangably by regular expresssions.
 
 This is an educational project for myself, simplifying my life in reading/writing binary data. Feel free to contribute to it and make use of it for your own convenience!
 

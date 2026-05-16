@@ -20,9 +20,9 @@ That is a free specification, that I have given to the project. As far as the ac
  - A structured and annotated graph-style visualisation of the _language_ reading and writing bytes in the form of a finite automaton can be generated (e.g. as plain-text or ```pdf```-file).
  - A language can be defined interchangably by regular expresssions.
 
-This is an educational project for myself, simplifying my life in reading/writing binary data. Feel free to contribute to it and make use of it for your own convenience!
-
 ## Licensing and Contribution
+
+This is an educational project for myself, simplifying my life in reading/writing binary data. Feel free to contribute to it and make use of it for your own convenience!
 
 Licensed under the GNU Affero General Public License v3.0.
 Commercial use is allowed, but source code and modifications must remain available under the same license, including for networked services.
